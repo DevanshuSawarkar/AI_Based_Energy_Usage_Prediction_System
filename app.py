@@ -87,6 +87,3 @@ if data_file:
 
 else:
     st.info("Please upload energy data (preferably 30+ recent days).")
-
-st.markdown("---")
-st.caption("Built with ❤️ for the Advanced Green & AI Skills Workshop 🌱")
