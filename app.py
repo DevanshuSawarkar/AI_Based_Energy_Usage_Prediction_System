@@ -87,3 +87,16 @@ if data_file:
 
 else:
     st.info("Please upload energy data (preferably 30+ recent days).")
+
+st.markdown("""
+
+---
+
+Created by:
+- Devanshu Sawarkar
+- Pratham Agrawal
+- Devansh Motghare
+- Pradyumn Waghmare
+- Ayush Gupte
+
+""")
