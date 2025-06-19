@@ -5,6 +5,15 @@ This capstone project presents an AI-powered solution to predict household energ
 ## 🚀 Live App
 👉 [Click here to try the app](https://aibasedenergyusagepredictionsystem-devanshusawarkar.streamlit.app/)
 
+### 📂 Uploadable Data Format
+Upload a CSV file with at least 30 days of appliance-wise usage. Supported columns:
+
+- Sub_metering_1: Kitchen usage (in kWh)
+- Sub_metering_2: Laundry usage
+- Sub_metering_3: AC/Heater usage
+
+Ensure the first column is the timestamp or datetime.
+
 ## 🔍 Project Overview
 
 The system utilizes historical power consumption data to forecast energy usage in three primary areas:
